@@ -426,6 +426,7 @@ textarea {
 .portfolio {
     height: 870px;
     background-color: #2d303a;
+    border-bottom: 6px solid #323746;
 }
 .port {
     width: 121px;
@@ -514,6 +515,7 @@ color: #dedede;
 .about_us {
     height: 728px;
     background-color: #f2f2f2;
+    border-bottom: 6px solid #ffffff;
 }
 .about {
     width: 134px;
